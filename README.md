@@ -164,8 +164,10 @@ reflecting my interest in applying technology to practical problems.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaurabhamal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="Gaurab Hamal's GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhamal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Languages used in Gaurab Hamal's public repositories" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaurabhamal&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub statistics — temporarily unavailable if the image service is down" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhamal&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Repository languages — temporarily unavailable if the image service is down" />
+
 
 <br /><br />
 
