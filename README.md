@@ -164,9 +164,10 @@ reflecting my interest in applying technology to practical problems.
 
 <div align="center">
 
-<img width="49%" src="github-readme-stats-48o70f82n-gaurav-4b2b.vercel.app/api?username=gaurabhamal&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-48o70f82n-gaurav-4b2b.vercel.app/api?username=gaurabhamal&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" src="github-readme-stats-48o70f82n-gaurav-4b2b.vercel.app/api/top-langs/?username=gaurabhamal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-48o70f82n-gaurav-4b2b.vercel.app/api/top-langs/?username=gaurabhamal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
 
 
 
