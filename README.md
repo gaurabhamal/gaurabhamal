@@ -1,216 +1,219 @@
-<p align="center">
-  <a href="https://github.com/gaurabhamal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programm[...]" />
-  </a>
-</p>
+<div align="center">
 
-<h1 align="center">
-  👋 Hi, I'm <span style="color: #0e75b6"><b>Gaurab Hamal</b></span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=200&section=header&text=Gaurab%20Hamal&fontSize=48&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Gaurab Hamal — Full-Stack Developer from Nepal" />
 
-<p align="center">
-  <b>Passionate Developer & Competitive Programmer</b> 💻 | BIM Student | Open Source Enthusiast
-</p>
+# Gaurab Hamal — Full-Stack Developer from Nepal
 
-<p align="center">
-  <a href="https://github.com/gaurabhamal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:hamlgaurav80@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/gaurab-hamal-43865a316/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+### Competitive Programmer · BIM Student · Open-Source Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaurab72&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+web+applications.;Solving+problems+with+algorithms.;Exploring+Linux+and+open+source.;Always+learning.+Always+building." width="650" alt="Building web applications, solving algorithm problems, and exploring Linux and open source" />
 
----
+**Thoughtful code. Practical solutions. Continuous learning.**
 
+<br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding animation" width="700"/>
-</p>
+<a href="https://github.com/gaurabhamal">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Gaurab Hamal on GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/gaurab-hamal-43865a316/">
+  <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gaurab Hamal on LinkedIn" />
+</a>
+<a href="mailto:hamlgaurav80@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gaurab Hamal" />
+</a>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="professional animation" width="320"/>
-</p>
+<br /><br />
+
+[About](#about-me) · [Skills](#technical-skills) · [Projects](#featured-project) · [Activity](#github-activity) · [Contact](#lets-connect)
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="680" alt="Animated developer working at a coding workstation" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate full-stack developer with strong expertise in core programming languages and web technologies. I focus on building efficient, scalable solutions using fundamental programming conc[...] 
+I'm **Gaurab Hamal**, a **full-stack developer and competitive programmer from Nepal**, pursuing a **Bachelor of Information Management (BIM) at Tribhuvan University**.
 
-- 🎓 **Education**: BIM (Bachelor of Information Management) | Tribhuvan University
-- 📍 **Location**: Nepal 🇳🇵
-- 💡 **Passion**: Building scalable applications and solving complex algorithms
-- 🎯 **Goal**: Contributing to impactful open-source projects
-- 📚 **Current Focus**: Advanced DSA & Full-Stack Development
+I enjoy building database-driven applications, solving algorithmic problems, and turning ideas into useful software.
 
----
-
-## 💻 Tech Stack
-
-### 🎯 Core Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=5" alt="Core Languages" />
-</p>
-
-**C** • **C++** • **Java** • **Python** • **PHP**
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="Web Technologies" />
-</p>
-
-**HTML5** • **CSS3** • **JavaScript (ES6+)**
-
-### 🗄️ Database & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="Database" />
-</p>
-
-**MySQL** • **Database Design** • **Query Optimization**
-
-### 🛠️ Tools & Version Control
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools" />
-</p>
-
-**Git** • **GitHub** • **VS Code** • **Linux/Unix**
+- **Recently completed:** Food Waste Management System
+- **Current focus:** Advanced DSA and full-stack development
+- **Developer toolkit:** Linux, Git, GitHub, and VS Code
+- **Interests:** Automation, scalable applications, and open source
+- **Open to:** Internships, collaborations, and developer opportunities
 
 ---
 
-## 📊 GitHub Statistics
+## Technical Skills
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gaurab72&show_icons=true&count_private=true&theme=react&border_color=0e75b6&bg_color=0D1117&title_color=0e75b6&text_colo[...]" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab72&layout=compact&theme=react&border_color=0e75b6&bg_color=0D1117&title_color=0e75b6&text_color=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=gaurab72&theme=react&hide_border=false&border_color=0e75b6" alt="GitHub Streak" />
-</p>
+### Programming Languages
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&theme=dark&perline=5" alt="C, C++, Java, Python, and PHP" />
 
-## 🎯 Core Competencies
+**C · C++ · Java · Python · PHP**
 
-### Data Structures & Algorithms (DSA)
-- ✅ Arrays, Linked Lists, Stacks, Queues
-- ✅ Trees, Graphs, Hash Tables
-- ✅ Sorting, Searching, Dynamic Programming
-- ✅ Problem-solving with optimal time & space complexity
+<br />
 
-### Web Development
-- ✅ **HTML5** - Semantic markup, accessibility
-- ✅ **CSS3** - Flexbox, Grid, animations, responsive design
-- ✅ **JavaScript** - DOM manipulation, ES6+, async programming
+### Web Development & Database
 
-### Backend & Database
-- ✅ **PHP** - Server-side scripting
-- ✅ **MySQL** - Database design, normalization, queries
-- ✅ Database relationships & optimization
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark&perline=4" alt="HTML5, CSS3, JavaScript, and MySQL" />
 
-### Object-Oriented Programming
-- ✅ **Java** - OOP principles, design patterns
-- ✅ **C++** - Advanced programming concepts
-- ✅ Inheritance, Polymorphism, Encapsulation, Abstraction
+**HTML5 · CSS3 · JavaScript ES6+ · MySQL**
 
-### Python
-- ✅ Scripting & automation
-- ✅ Data manipulation
-- ✅ Algorithm implementation
+<br />
 
-### Version Control
-- ✅ **Git** - Branching, merging, rebasing
-- ✅ **GitHub** - Collaboration, pull requests, issues
+### Tools & Environment
 
----
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark&perline=4" alt="Linux, Git, GitHub, and Visual Studio Code" />
 
-## 🎨 Projects
+**Linux/Unix · Git · GitHub · VS Code**
 
-| Project | Description | Technologies |
-|---------|-------------|---------------|
-| **DSA Problem Solver** | Collection of solved algorithm problems | C, C++, Java, Python |
-| **Library Management System** | Full-stack web application | PHP, HTML, CSS, JavaScript, MySQL |
-| **Student Information System** | Database-driven application | Java, MySQL |
-| **Weather Application** | Real-time data processing | JavaScript, HTML, CSS |
+</div>
 
-*👉 [View All Repositories](https://github.com/gaurabhamal?tab=repositories)*
+<br />
+
+<details>
+<summary><strong>Explore my skills in detail</strong></summary>
+
+<br />
+
+| Area | Skills |
+| :--- | :--- |
+| **Data Structures** | Arrays, linked lists, stacks, queues, trees, graphs, hash tables |
+| **Algorithms** | Sorting, searching, dynamic programming, time and space complexity |
+| **HTML & CSS** | Semantic markup, accessibility, responsive design, Flexbox, Grid, animations |
+| **JavaScript** | DOM manipulation, ES6+, asynchronous programming |
+| **Backend** | PHP server-side scripting and application logic |
+| **MySQL** | Database design, normalization, relationships, SQL queries, query optimization |
+| **Java & C++** | Object-oriented programming, design patterns, inheritance, polymorphism, encapsulation, abstraction |
+| **Python** | Scripting, automation, data manipulation, algorithm implementation |
+| **Git & GitHub** | Branching, merging, rebasing, pull requests, issues, collaboration |
+| **Linux/Unix** | Development environment and continued command-line learning |
+
+</details>
 
 ---
 
-## 🌟 What I'm Currently Doing
+## Featured Project
 
-- 🔨 Solving competitive programming problems on DSA
-- 📚 Mastering advanced data structures and algorithms
-- 💻 Building full-stack web applications
-- 🎓 Pursuing BIM degree at Tribhuvan University
-- 🤝 Open to collaborations and open-source contributions
-- 🏆 Improving problem-solving skills through consistent practice
+<div align="center">
 
----
+### 🌱 Food Waste Management System
 
-## 📈 My Learning Roadmap
+**A completed project by Gaurab Hamal**
 
-```
-2024 - 2025 Focus:
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-15803D?style=for-the-badge" alt="Completed project" />
+<img src="https://img.shields.io/badge/FOCUS-FOOD_WASTE_MANAGEMENT-0284C7?style=for-the-badge" alt="Food waste management" />
 
-✅ Core Programming: C, C++, Java, Python, PHP
-✅ Web Fundamentals: HTML5, CSS3, JavaScript
-✅ Database: MySQL design & optimization
-✅ DSA: Master all fundamental data structures
-✅ Version Control: Git & GitHub workflows
+<br /><br />
 
-🎯 Currently:
-  → Advanced DSA problems
-  → Full-stack web projects
-  → Competitive programming practice
-  → Open-source contributions
+A software project focused on **food waste management**,  
+reflecting my interest in applying technology to practical problems.
 
-🚀 Next:
-  → Advanced algorithms & system design
-  → Performance optimization
-  → Building production-ready applications
-```
+<br />
+
+<a href="https://github.com/gaurabhamal?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse_My_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Browse Gaurab Hamal's repositories" />
+</a>
+
+</div>
+
+<!-- Add the project's direct repository URL, verified features,
+     technology stack, and a real screenshot or demo GIF here. -->
 
 ---
 
-## 💬 Let's Connect!
+## More Projects
 
-<p align="center">
-  <b>I'd love to collaborate and discuss technology!</b>
-</p>
-
-- 🤝 **Collaborations** on interesting projects
-- 💼 **Internship & Job opportunities**
-- 🎤 **Technical discussions** & knowledge sharing
-- 🚀 **Open source contributions**
-- 📧 **Any questions?** Feel free to reach out!
-
-<p align="center">
-  <a href="https://github.com/gaurabhamal" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on-GitHub-111827?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:hamlgaurav80@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Send%20Me-Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/gaurab-hamal" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 DSA Problem Solver</h3>
+      <p>Algorithm solutions and competitive programming practice focused on problem-solving fundamentals.</p>
+      <p><strong>C · C++ · Java · Python</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Information System</h3>
+      <p>A database-driven application for organizing and managing student information.</p>
+      <p><strong>Java · MySQL</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ Weather Application</h3>
+      <p>A web application for processing and displaying real-time weather information.</p>
+      <p><strong>JavaScript · HTML · CSS</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More from My Workspace</h3>
+      <p>Explore my repositories, coding practice, and development projects.</p>
+      <p><a href="https://github.com/gaurabhamal?tab=repositories"><strong>Explore all repositories →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+bui[...]" />
-</p>
+## GitHub Activity
 
-<p align="center">
+<div align="center">
 
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaurabhamal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="Gaurab Hamal's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurabhamal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Languages used in Gaurab Hamal's public repositories" />
+
+<br /><br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=gaurabhamal&theme=github-dark-blue&hide_border=true" alt="Gaurab Hamal's GitHub contribution streak" />
+
+<br /><br />
+
+**[View my GitHub activity →](https://github.com/gaurabhamal)**
+
+<sub>Statistics are provided by external services and may be cached or temporarily unavailable.</sub>
+
+</div>
+
+---
+
+## Learning Roadmap
+
+| Building Today | Exploring Next |
+| :--- | :--- |
+| Advanced DSA and competitive programming | Advanced algorithms and system design |
+| Full-stack web applications | Production-ready applications |
+| MySQL and database design | Performance and query optimization |
+| Linux and Git workflows | Stronger development and deployment practices |
+| Open-source collaboration | Meaningful community contributions |
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="280" alt="Animated developer workspace" />
+
+### Have an idea? Let's build something useful.
+
+I'm open to **collaborations**, **internships**, **developer opportunities**,  
+and conversations about **technology and open source**.
+
+<br />
+
+**[Email](mailto:hamlgaurav80@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/gaurab-hamal-43865a316/)** · **[GitHub](https://github.com/gaurabhamal)**
+
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting.;Learning+every+day.+Building+with+purpose." alt="Thanks for visiting. Learning every day. Building with purpose." />
+
+**Gaurab Hamal · Nepal**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=110&section=footer" width="100%" alt="Blue wave footer" />
+
+</div>
