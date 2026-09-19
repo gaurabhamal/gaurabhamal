@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/gaurab72">
+  <a href="https://github.com/gaurabhamal">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programm[...]" />
   </a>
 </p>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gaurab72" target="_blank">
+  <a href="https://github.com/gaurabhamal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:hamlgaurav80@gmail.com" target="_blank">
@@ -141,7 +141,7 @@ I'm a passionate full-stack developer with strong expertise in core programming 
 | **Student Information System** | Database-driven application | Java, MySQL |
 | **Weather Application** | Real-time data processing | JavaScript, HTML, CSS |
 
-*👉 [View All Repositories](https://github.com/gaurab72?tab=repositories)*
+*👉 [View All Repositories](https://github.com/gaurabhamal?tab=repositories)*
 
 ---
 
@@ -194,7 +194,7 @@ I'm a passionate full-stack developer with strong expertise in core programming 
 - 📧 **Any questions?** Feel free to reach out!
 
 <p align="center">
-  <a href="https://github.com/gaurab72" target="_blank">
+  <a href="https://github.com/gaurabhamal" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on-GitHub-111827?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:hamlgaurav80@gmail.com" target="_blank">
