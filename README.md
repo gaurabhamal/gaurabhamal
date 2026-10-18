@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=200&section=header&text=Gaurab%20Hamal&fontSize=48&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Gaurab Hamal — Full-Stack Developer from Nepal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=200&section=header&text=Gaurab%20Hamal&fontSize=48&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
-# Gaurab Hamal — Full-Stack Developer from Nepal
+# Gaurab Hamal – Web Developer & BIM Student, Pokhara, Nepal
+
+I am Gaurab Hamal, a web developer and BIM student based in Pokhara, Nepal. Visit my [Gaurab Hamal's portfolio](https://gaurabhamal.com.np/) to explore my work and projects.
 
 ### Competitive Programmer · BIM Student · Open-Source Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+web+applications.;Solving+problems+with+algorithms.;Exploring+Linux+and+open+source.;Always+learning.+Always+building." width="650" alt="Building web applications, solving algorithm problems, and exploring Linux and open source" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+web+applications;Solving+algorithm+problems+with+clarity" />
 
 **Thoughtful code. Practical solutions. Continuous learning.**
 
@@ -36,7 +38,7 @@
 
 ## About Me
 
-I'm **Gaurab Hamal**, a **full-stack developer and competitive programmer from Nepal**, pursuing a **Bachelor of Information Management (BIM) at Tribhuvan University**.
+I'm **Gaurab Hamal**, a web developer and competitive programmer from Nepal, pursuing a **Bachelor of Information Management (BIM)** at Tribhuvan University. I enjoy building practical web applications, solving algorithmic problems, and creating useful software that addresses real-world needs.
 
 I enjoy building database-driven applications, solving algorithmic problems, and turning ideas into useful software.
 
@@ -45,6 +47,15 @@ I enjoy building database-driven applications, solving algorithmic problems, and
 - **Developer toolkit:** Linux, Git, GitHub, and VS Code
 - **Interests:** Automation, scalable applications, and open source
 - **Open to:** Internships, collaborations, and developer opportunities
+
+---
+
+## Links
+
+- Website: https://gaurabhamal.com.np/
+- Resume: https://gaurabhamal.com.np/My_Resume.pdf
+- LinkedIn: https://www.linkedin.com/in/gaurab-hamal-43865a316/
+- Facebook: https://www.facebook.com/gaurab.hamal777
 
 ---
 
@@ -113,8 +124,7 @@ I enjoy building database-driven applications, solving algorithmic problems, and
 
 <br /><br />
 
-A software project focused on **food waste management**,  
-reflecting my interest in applying technology to practical problems.
+This project focuses on reducing food waste by helping track surplus food, improving reporting, and supporting better coordination between users and local stakeholders. It was built with practical web technologies, including front-end development and database-backed logic for managing records. Repository: <a href="https://github.com/gaurabhamal?tab=repositories">Browse my repositories</a>.
 
 <br />
 
@@ -135,19 +145,19 @@ reflecting my interest in applying technology to practical problems.
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 DSA Problem Solver</h3>
-      <p>Algorithm solutions and competitive programming practice focused on problem-solving fundamentals.</p>
+      <p>DSA Problem Solver is a collection of algorithm and data structure solutions focused on competitive programming and interview preparation. It includes problem-solving practice across C, C++, Java, and Python, helping build strong fundamentals in logic, optimization, and complexity analysis. Repository: <a href="https://github.com/gaurabhamal?tab=repositories">Browse my repositories</a>.</p>
       <p><strong>C · C++ · Java · Python</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Student Information System</h3>
-      <p>A database-driven application for organizing and managing student information.</p>
+      <p>Student Information System is a database-driven application for managing student details, assignments, and records in an organized way. It was built with Java and MySQL to demonstrate practical system design, data handling, and backend logic. Repository: <a href="https://github.com/gaurabhamal?tab=repositories">Browse my repositories</a>.</p>
       <p><strong>Java · MySQL</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌦️ Weather Application</h3>
-      <p>A web application for processing and displaying real-time weather information.</p>
+      <p>Weather Application is a lightweight web project for fetching and displaying weather information in a clear, user-friendly interface. The project uses JavaScript, HTML, and CSS to create an interactive experience with live data handling and responsive design. Repository: <a href="https://github.com/gaurabhamal?tab=repositories">Browse my repositories</a>.</p>
       <p><strong>JavaScript · HTML · CSS</strong></p>
     </td>
     <td width="50%" valign="top">
@@ -160,6 +170,18 @@ reflecting my interest in applying technology to practical problems.
 
 ---
 
+## Certifications
+
+Programiz certificates:
+
+- [Java Master](https://gaurabhamal.com.np/java-cert.pdf)
+- [C Master](https://gaurabhamal.com.np/c-cert.pdf)
+- [JavaScript Master](https://gaurabhamal.com.np/js-cert.pdf)
+- [Learn HTML](https://gaurabhamal.com.np/html-cert.pdf)
+- [Learn CSS](https://gaurabhamal.com.np/css-cert.pdf)
+
+---
+
 ## GitHub Activity
 
 <div align="center">
@@ -167,9 +189,6 @@ reflecting my interest in applying technology to practical problems.
 <img width="49%" src="https://github-readme-stats-48o70f82n-gaurav-4b2b.vercel.app/api?username=gaurabhamal&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-stats-48o70f82n-gaurav-4b2b.vercel.app/api/top-langs/?username=gaurabhamal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-
-
 
 <br /><br />
 
@@ -205,7 +224,7 @@ reflecting my interest in applying technology to practical problems.
 
 ### Have an idea? Let's build something useful.
 
-I'm open to **collaborations**, **internships**, **developer opportunities**,  
+I'm open to **collaborations**, **internships**, **developer opportunities**,
 and conversations about **technology and open source**.
 
 <br />
@@ -214,7 +233,7 @@ and conversations about **technology and open source**.
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting.;Learning+every+day.+Building+with+purpose." alt="Thanks for visiting. Learning every day. Building with purpose." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting.;Learning+every+day.+Building+useful+projects+one+step+at+a+time" />
 
 **Gaurab Hamal · Nepal**
 
