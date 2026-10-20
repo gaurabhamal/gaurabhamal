@@ -52,8 +52,6 @@ I enjoy building database-driven applications, solving algorithmic problems, and
 
 ## Links
 
-- Website: https://gaurabhamal.com.np/
-- Resume: https://gaurabhamal.com.np/My_Resume.pdf
 - LinkedIn: https://www.linkedin.com/in/gaurab-hamal-43865a316/
 - Facebook: https://www.facebook.com/gaurab.hamal777
 
