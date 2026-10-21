@@ -168,17 +168,6 @@ This project focuses on reducing food waste by helping track surplus food, impro
 
 ---
 
-## Certifications
-
-Programiz certificates:
-
-- [Java Master](https://gaurabhamal.com.np/java-cert.pdf)
-- [C Master](https://gaurabhamal.com.np/c-cert.pdf)
-- [JavaScript Master](https://gaurabhamal.com.np/js-cert.pdf)
-- [Learn HTML](https://gaurabhamal.com.np/html-cert.pdf)
-- [Learn CSS](https://gaurabhamal.com.np/css-cert.pdf)
-
----
 
 ## GitHub Activity
 
